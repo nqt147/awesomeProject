@@ -10,4 +10,5 @@ func main() {
 	router := &s.Router{}
 	router.InitializeAPIConfig()
 	router.Run(":8080")
+	log.Print("end")
 }
