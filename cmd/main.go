@@ -1,7 +1,7 @@
 package main
 
 import (
-	s "../service"
+	s "github.com/awesomeProject/service"
 	"log"
 )
 

@@ -1,7 +1,7 @@
 package service
 
 import (
-	h "../handler"
+	h "github.com/awesomeProject/handler"
 	m "github.com/gorilla/mux"
 	"net/http"
 )
